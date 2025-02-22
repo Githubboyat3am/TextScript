@@ -5,7 +5,8 @@ This is a coding language I made in python
 # Statements 🛂
 
 print - outputs chosen text
-/n var - variable
+
+var - variable
 
 # Stuff to know 🤔
 
