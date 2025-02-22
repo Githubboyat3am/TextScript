@@ -10,3 +10,7 @@ var - variable (only works with strings)
 # Stuff to know 🤔
 
 if you print 'var' you will output the variable you made
+
+# How to run 🏃‍♂️
+
+paste Script.py into Pycharm or your python compiler and type tutorial for commands!
