@@ -15,3 +15,4 @@ if you print 'var' you will output the variable you made
 # How to run 🏃‍♂️
 
 paste Prototype.py into Pycharm or your python compiler and type tutorial for commands!
+If using C# paste into Visual Studio
