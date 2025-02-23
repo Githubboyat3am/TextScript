@@ -1,6 +1,6 @@
 # TextScript 🖥
 
-This is a coding language I made in python
+This is a coding language I made in python as well as a C# version (TextScript.cs)
 
 # Statements 🛂
 
